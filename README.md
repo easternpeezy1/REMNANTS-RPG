@@ -28,10 +28,10 @@ A text-based survival RPG built with Electron where you fight zombies, bandits, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/easternpeezy1/REMNANT-A-Text-Based-Survival-RPG
+git clone https://github.com/easternpeezy1/REMNANTS-RPG
 
 # Navigate to the project directory
-cd REMNANT-A-Text-Based-Survival-RPG
+cd REMNANTS-RPG
 
 # Install dependencies
 npm install
@@ -97,7 +97,7 @@ Executables will be created in the `dist` folder.
 ## 📁 Project Structure
 
 ```
-remnants-a-text-based-survival-rpg/
+remnants-rpg/
 ├── index.html                 # Main HTML entry point
 ├── main.js                    # Electron app launcher
 ├── package.json               # Dependencies & build config
@@ -164,11 +164,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
-
-**easternpeezy1**
-
-- GitHub: [@easternpeezy1](https://github.com/easternpeezy1)
 
 ## 🙏 Acknowledgments
 
@@ -186,4 +181,3 @@ If you encounter any issues or have questions:
 
 **Survive the wasteland. Build your legend. Become the ultimate survivor.** ⚔️🧟‍♂️
 
-*Made with ❤️ by easternpeezy1*
